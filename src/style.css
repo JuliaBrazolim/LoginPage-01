@@ -1,0 +1,38 @@
+.bgcolor-nav { background-color:#250657; }
+.logo-nav,.brand { color: #ea95bf; text-decoration:none; }
+.brand:hover {color:#fff;}
+.btn-burger {color:#ea95bf !important; font-size:30px;}
+.nav-link{ color:#fff; }
+.nav-link:hover { color:#ea95bf; }
+.btn-color-brain{ color:#ea95bf !important; border: 1px solid #ea95bf !important; }
+.logo-login { color:#ea95bf; font-size:75px; }
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+.form-signin .checkbox {
+  font-weight: 400;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.btn-login-brain{ color:#fff !important; background-color:#250657 !important;}
